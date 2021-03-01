@@ -9,7 +9,7 @@ and c++ (Arduino.h library) but then I lost interest in mechatronics. So l wante
 <p>
  
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png"  width="30" height="30"/> GitHub Analytics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaankarakoc42&show_icons=true&theme=tokyonight&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaankarakoc42&show_icons=true&theme=tokyonight&hiding_specific_stats=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaankarakoc42&theme=tokyonight&layout=compact)
 
 
