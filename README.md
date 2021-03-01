@@ -6,6 +6,7 @@ and c++ (Arduino.h library) but then I lost interest in mechatronics. So l wante
 
 <p align="center">
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" width="50" height="50"/>
 <p>
  
