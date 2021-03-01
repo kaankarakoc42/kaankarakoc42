@@ -3,11 +3,10 @@ hello guys first of all l will introduce myself. who is mevlüt kaan? l was born
 and c++ (Arduino.h library) but then I lost interest in mechatronics. So l wanted the learn a high level language like python. I improved myself at  python for 2 years l learned to use a lot of frameworks and libraries like flask(website backend developing framework ),opencv(for image processing), Selenyum(for web bots). But after writing a few websites l decided the python is not my language beacuse l want to programming mobile apps and that was not possible with python so l switch my language to javascript and l am trying to develop mobile apps with react-native framework (it is a framework that provides you to make cross-platform(android,ios) mobile apps) .l hope that l will be a good engineer in the future.
 
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="30" height="30"/> Skils
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+
 <p align="center">
-<i class="programming lang-javascript"></i>
-<i class="programming lang-typescript"></i>
-<i class="programming lang-python"></i>
+ <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" width="50" height="50"/>
 <p>
  
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png"  width="30" height="30"/> GitHub Analytics
