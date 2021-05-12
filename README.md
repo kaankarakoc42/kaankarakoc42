@@ -2,7 +2,7 @@
 
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="30" height="30"/> Skills
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -27,7 +27,7 @@
 
 
 # Social Media
-<p>
+<p align="center">
   <a href="mailto:karakockaan326@gamil.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
   <a href="https://www.instagram.com/kaankarakoc42/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>
   <a href="https://kaankarakoc42.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><a/>
