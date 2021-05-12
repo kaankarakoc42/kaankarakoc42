@@ -1,5 +1,5 @@
 # Who am i
-I am just a person who can code.
+**I am just a person who can code.**
 
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="30" height="30"/> Skills
 
