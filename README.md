@@ -2,7 +2,7 @@
 **I am just a person who can code.**
 
 ## ~Abilities
-
+<details>
 <p>
   <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -23,11 +23,12 @@
   <img  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 <p>
+ <details/>
  
 ## ~GitHub Analytics
 <a href="https://github.com/zekkontro">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=kaankarakoc42&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="zekkontro"/>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaankarakoc42&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="zekkontro"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kaankarakoc42&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="zekkontro"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaankarakoc42&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="zekkontro"/>
 </a>
 
 
