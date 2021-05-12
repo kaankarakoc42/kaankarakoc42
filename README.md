@@ -1,7 +1,7 @@
 # Who am i
 **I am just a person who can code.**
 
-##* Abilities
+## -Abilities
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -20,14 +20,14 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <p>
  
-## * GitHub Analytics
+## -GitHub Analytics
 <a href="https://github.com/zekkontro">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kaankarakoc42&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="zekkontro"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaankarakoc42&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="zekkontro"/>
 </a>
 
 
-## * Social Media
+## -Social Media
 <p align="center">
   <a href="mailto:karakockaan326@gamil.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
   <a href="https://www.instagram.com/kaankarakoc42/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>
