@@ -22,8 +22,5 @@
 
 ## ~Social Media
 <p align="center">
-  <a href="mailto:karakockaan326@gamil.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
-  <a href="https://www.instagram.com/kaankarakoc42/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>
-  <a href="https://kaankarakoc42.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><a/>
-  <a href="https://www.npmjs.com/~kaankarakoc42"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/><a/>
+  deleted
 <p/>
