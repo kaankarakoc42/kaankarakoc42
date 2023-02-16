@@ -20,7 +20,3 @@
 </a>
 
 
-## ~Social Media
-<p align="center">
-  deleted
-<p/>
