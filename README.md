@@ -1,24 +1,31 @@
 # Kaan Karakoç
 
-**Backend Developer (Go) · Distributed Systems**
+Backend Developer (Go) · Distributed Systems
 
-I build event-driven systems that handle real-world failure.
+I build event-driven systems that survive failure.
 
 ---
 
-## 🚀 What I Do
+## ⚙️ What I Work On
 
-- Build **Go microservices**
-- Design **event-driven architectures (Kafka)**
-- Handle **retries, failures, distributed state**
-- Set up **observability (Prometheus · Grafana · Jaeger)**
-- Deploy on **Kubernetes**
+- Designing Kafka-based architectures (queues, events, retries)
+- Building Go microservices with real failure handling
+- Managing distributed state & retry logic
+- Observability (Prometheus, Grafana, Jaeger)
+- Kubernetes deployments
+
+---
+
+## 🔥 Current Focus
+
+Building **TaskForge**  
+→ Distributed task orchestration system  
+→ Handles retries, failures, and async workflows  
 
 ---
 
 ## 🧠 Stack
 
-**Backend:** Go · Python · Node.js  
-**Frontend:** React · React Native  
-**Infra:** Docker · Kubernetes · Nginx · AWS · Cloudflare  
-**Data:** Kafka · PostgreSQL  
+Go · Kafka · Kubernetes · PostgreSQL  
+Prometheus · Grafana · Jaeger  
+Docker · Nginx · Cloudflare
