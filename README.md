@@ -20,5 +20,5 @@ I build event-driven systems that handle real-world failure.
 
 **Backend:** Go · Python · Node.js  
 **Frontend:** React · React Native  
-**Infra:** Docker · Kubernetes · Nginx · Cloudflare · AWS 
+**Infra:** Docker · Kubernetes · Nginx · Cloudflare 
 **Data:** Kafka · PostgreSQL  
