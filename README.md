@@ -1,22 +1,63 @@
-# Who am i
-**I am just a person who can code.**
+# Kaan Karakoç
 
-## ~Abilities
-<p>
-  <img  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<p>
+**Backend Developer (Go) · Distributed Systems · Microservices**
 
- 
-## ~GitHub Analytics
-<a href="https://github.com/kaankarakoc42">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kaankarakoc42&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="kaankarakoc42"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaankarakoc42&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="kaankarakoc42"/>
-</a>
+I build systems that don’t fall apart under pressure.
 
+Currently working on **TaskForge** — a distributed task orchestration platform built with event-driven architecture.
 
+---
+
+## 🚀 What I Actually Do
+
+- Design and build **event-driven systems** using Kafka
+- Develop **Go microservices** with real production concerns
+- Handle **distributed state, retries, and failure scenarios**
+- Build full observability stacks (**Prometheus + Grafana + Jaeger**)
+- Deploy systems on **Kubernetes (k3s / minikube)**
+
+---
+
+## 🧠 Tech Stack
+
+### Backend
+- Go (main)
+- Python (Django, Flask)
+- Node.js (Express)
+
+### Frontend
+- React
+- React Native
+
+### Infrastructure
+- Docker / Docker Compose
+- Kubernetes (k3s, minikube)
+- Nginx / Traefik
+- Cloudflare
+
+### Messaging & Data
+- Apache Kafka
+- PostgreSQL
+
+### Observability
+- Prometheus
+- Grafana
+- Jaeger (OpenTelemetry)
+
+---
+
+## ⚙️ Featured Project
+
+### 🔥 TaskForge
+
+> Distributed task orchestration system
+
+**Key Features:**
+- Async task processing with Kafka
+- Retry & scheduling system
+- WebSocket real-time updates
+- Outbox pattern implementation
+- Full observability (metrics + tracing)
+
+```diff
+API → Kafka → Worker → DB → WebSocket
