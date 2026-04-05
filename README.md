@@ -20,21 +20,5 @@ I build event-driven systems that handle real-world failure.
 
 **Backend:** Go · Python · Node.js  
 **Frontend:** React · React Native  
-**Infra:** Docker · Kubernetes · Nginx · Cloudflare  
+**Infra:** Docker · Kubernetes · Nginx · Cloudflare · AWS 
 **Data:** Kafka · PostgreSQL  
-
----
-
-## ⚙️ Project
-
-### 🔥 TaskForge
-
-Distributed task orchestration system
-
-- Async processing (Kafka)
-- Retry & scheduling
-- Real-time updates (WebSocket)
-- Observability-first design
-
-```diff
-API → Kafka → Worker
